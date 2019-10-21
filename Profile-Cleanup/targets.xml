@@ -23,6 +23,7 @@
         <Path Action="Prune" Days="7">%LocalAppData%\Microsoft\GraphicsCache</Path>
         <Path Action="Prune" Days="7">%LocalAppData%\Microsoft\TokenBroker\Cache</Path>
         <Path Action="Prune" Days="7">%LocalAppData%\Microsoft\Windows\Caches</Path>
+        <Path Action="Prune" Days="7">%LocalAppData%\SCOM\LOGS</Path>
         <Path Action="Delete">%LocalAppData%\Microsoft\Windows\GameExplorer</Path>
         <Path Action="Delete">%LocalAppData%\Microsoft\Windows\WER</Path>
         <Path Action="Delete">%LocalAppData%\Microsoft\Windows\CrashReports</Path>
